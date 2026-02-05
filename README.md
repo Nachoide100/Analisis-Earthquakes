@@ -78,7 +78,9 @@ El dashboard se diseñó bajo una filosofía de **Dark Mode (#1A1A1A)** para max
 * **Histograma de Tiempos de Espera:** Identificación visual de lo recurrentes que son los sismos. 
 
 Para terner una visión mejorada -> ![Informe PDF](https://github.com/Nachoide100/Analisis-Earthquakes/blob/5dbbfb44b41f2377d7d7580ab04641e92b9ff34e/analisis_terremotos.pdf)
+
 Para acceder al informe dinámico -> ![Enlace](https://drive.google.com/file/d/124XLvt6LqnuFo2LlTl7vs1bFyK8pWcmG/view?usp=drive_link)
+
 ---
 
 ## ⚙️ 4. Flujo de Trabajo (Workflow)
