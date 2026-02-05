@@ -4,8 +4,21 @@
 ![Tools](https://img.shields.io/badge/Tools-SQL%20%7C%20Python%20%7C%20Power%20BI-blue)
 ![Date](https://img.shields.io/badge/Fecha-05%20Febrero%202026-lightgrey)
 
-## 📋 Descripción del Proyecto
-Este proyecto transforma datos sísmicos brutos en un sistema de **Business Intelligence (BI)** avanzado. El objetivo es proporcionar una herramienta interactiva para la evaluación de riesgos geológicos, identificando patrones de recurrencia y calculando el impacto energético real de los movimientos telúricos.
+## 📖 Contexto y Origen del Proyecto
+Este proyecto nació con un objetivo muy claro y real: servir de apoyo visual interactivo para una investigación académica de Geología.
+
+Mi hermana, estudiante de Geología, se encontraba redactando un trabajo teórico sobre el comportamiento sísmico, las leyes de recurrencia y la liberación de energía. Aunque la teoría era sólida, los conceptos abstractos (como la diferencia exponencial entre magnitudes o la relación profundidad-riesgo) eran difíciles de dimensionar solo con texto.
+
+## 🎯 El Objetivo
+Le ofrecí (ahora que estoy practicando con análisis de datos) complementar su trabajo con un informe visual sobre el comportamiento sísmico. No me lo creí pero aceptó, así que así empezar a crear una herramienta que permitiera:
+
+* Validar visualmente leyes geológicas (como la relación Magnitud-Frecuencia).
+
+* Identificar patrones reales que a veces se pierden en los libros (como los enjambres sísmicos).
+
+* Traducir miles de filas de registros de sensores en conclusiones tangibles sobre el riesgo.
+
+Lo que comenzó como una ayuda para un trabajo de facultad se convirtió en un proyecto completo que me ayudó a entender el proceso completo de datos (ETL -> Análisis -> Visualización).
 
 ---
 
@@ -93,7 +106,9 @@ El sistema utiliza un ciclo de actualización robusto para asegurar la integrida
 ---
 
 ## 🚀 Conclusión
-Este sistema permite pasar de datos aislados a respuestas estratégicas inmediatas, permitiendo identificar no solo dónde ocurrió un sismo, sino **qué tan peligroso fue realmente** y si existe una frecuencia determinada en su aparición. 
+Este sistema permite pasar de datos aislados a respuestas sobre la naturaleza de los terremotos, permitiendo identificar no solo dónde ocurrió un sismo, sino **qué tan peligroso fue realmente** y si existe una frecuencia determinada en su aparición. 
+
+Le he dicho que si saca buena nota, me debe una cena (;.
 
 ---
 **Desarrollado por:** José Ignacio Rubio
