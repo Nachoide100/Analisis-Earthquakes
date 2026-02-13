@@ -113,4 +113,4 @@ Le he dicho que si saca buena nota, me debe una cena (;.
 ---
 **Desarrollado por:** José Ignacio Rubio
 
-**Contacto:** [https://www.linkedin.com/in/jos%C3%A9-ignacio-rubio-194471308/]
+**Contacto:** [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ignacio-rubio-194471308/)
